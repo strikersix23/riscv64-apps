@@ -1,2 +1,2 @@
 # riscv64-apps
-Compiled apps for fede
+Compiled apps for fedora 29 riscv64
